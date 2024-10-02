@@ -1,0 +1,3 @@
+import saudacao
+
+saudacao.saudacao()
